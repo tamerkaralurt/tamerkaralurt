@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tamerkaraca.tamerkaraca&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tamerkaralurt.tamerkaralurt&"  />
 </div>
 
 ###
@@ -55,26 +55,26 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamerkaralurt/tamerkaralurt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamerkaralurt/tamerkaralurt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tamerkaralurt/tamerkaralurt/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamerkaralurt/tamerkaralurt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamerkaralurt/tamerkaralurt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tamerkaralurt/tamerkaralurt/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamerkaraca&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tamerkaraca&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamerkaraca&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamerkaraca&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamerkaralurt&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=tamerkaralurt&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamerkaralurt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamerkaralurt&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
